@@ -1,6 +1,7 @@
 body {
   overflow: hidden;
   transition: 1s linear;
+  height: 100vh;
 }
 
 #color {

@@ -10,7 +10,7 @@ body {
   width: 500px;
   height: 60px;
   border-radius: 5px;
-  top: 700px;
+  top: 60%;
   left: 36%;
   text-align: center;
 }
@@ -24,7 +24,7 @@ p {
 
 #stop {
   position: absolute;
-  top: 800px;
+  top: 65%;
   left: 43%;
   background: rgb(255, 0, 0);
   width: 200px;
